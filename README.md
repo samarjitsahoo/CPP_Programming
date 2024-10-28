@@ -1,4 +1,4 @@
-# CPP_Programming
+# C++ Programming
 <div align="center">
 <img src="Assets/cpp-programming.png" width="150" height="auto">
 </div>
